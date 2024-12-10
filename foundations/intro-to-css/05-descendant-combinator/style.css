@@ -4,3 +4,11 @@ div p {
     font-size: 20px;
     text-align: center;
 }
+
+/*Below are other combinations that work the same:
+.container .text
+.container
+div .text
+.container p
+
+*/
